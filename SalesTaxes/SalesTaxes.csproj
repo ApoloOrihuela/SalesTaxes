@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Documentation\Sonatafy_SalesTaxes_1.0.0_Software_Documentation.pdf" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
